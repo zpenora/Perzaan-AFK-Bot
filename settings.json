@@ -37,11 +37,11 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 200,
+    "max-reconnect-delay": 2000,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 20,
+      "min-interval": 15,
       "max-interval": 60
     }
   },
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1568217688386306120/q-tdnIDWXa3aSpDmWySfjLWUrzwO49mmHw5KXoryVXIcFjM38GvujZ_vptAyyoapfbHa",
     "events": {
       "connect": true,
       "disconnect": true,

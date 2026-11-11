@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AternosBot",
+    "username": "PalsycoBOT",
     "password": "",
     "type": "offline"
   },
@@ -30,13 +30,13 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "I'm a regular player just bot",
+        "Subscribe to Palsyco On Youtube",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 0,
     "max-reconnect-delay": 0,
     "periodic-rejoin": {
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1568217688386306120/q-tdnIDWXa3aSpDmWySfjLWUrzwO49mmHw5KXoryVXIcFjM38GvujZ_vptAyyoapfbHa",
+    "webhookUrl": "https://discord.com/api/webhooks/1570021201567547514/MPVmQ8vAuDGEqUu_Z8-FdV-_eerjAvu627xs-mgjJjTVaWYcVP6Gl9LVKzCHAQu2vXxA",
     "events": {
       "connect": true,
       "disconnect": true,

@@ -37,11 +37,11 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 0,
-    "max-reconnect-delay": 0,
+    "auto-reconnect-delay": 1,
+    "max-reconnect-delay": 1,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 0,
+      "min-interval": 1,
       "max-interval": 60
     }
   },

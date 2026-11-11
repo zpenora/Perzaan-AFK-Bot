@@ -38,10 +38,10 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 0,
-    "max-reconnect-delay": 2000,
+    "max-reconnect-delay": 0,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 15,
+      "min-interval": 0,
       "max-interval": 60
     }
   },
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {

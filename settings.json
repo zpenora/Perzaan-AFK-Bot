@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 100,
       "messages": [
         "I'm a regular player just bot",
-        "Subscribe to Palsyco On Youtube",
+        "Subscribe to Palysco On Youtube",
         "I like to play Minecraft!"
       ]
     },
